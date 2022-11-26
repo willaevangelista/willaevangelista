@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Willa+Evangelista;I'm+21+years+old;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/willaevangelista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willaevangelista&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willaevangelista&layout=compact&langs_count=7&theme=radical"/>
