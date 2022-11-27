@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Willa+Evangelista;I'm+21+years+old;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="display: inline_block">
@@ -32,6 +30,3 @@
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=willaevangelista&bg_color=000000&color=00ffff&line=00e1ff&point=ff00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-                                                                           
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
