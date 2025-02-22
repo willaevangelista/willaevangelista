@@ -1,7 +1,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Willa+Evangelista;I'm+23+years+old;I'm+from+Brazil;I'm+a+full-stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 <div align=center>
-<h1>✨ Olá, sou a <a href="https://www.linkedin.com/in/willaevangelista/">Willa</a>! ✨</h1>
+ 
+# ✨ Olá, sou a <a href="https://www.linkedin.com/in/willaevangelista/">Willa</a>! ✨
+
 </div>
+
 
 ***********
 
@@ -28,16 +31,18 @@
 
 ***********
 
-<h2>⚡️ Alguns fatos sobre mim</h2>
-<img align="right" src="https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif" />
-<ul>
-<li>👩‍💻 Cursando <b>Engenharia de Software</b> na <a href="https://descomplica.com.br/faculdade/b/">Faculdade Descomplica</a>.</li>
-<li>💼 Prestes a me formar em Gestão de Políticas Públicas na <a href="https://www5.usp.br/">Universidade de São Paulo (USP)</a>.</li>
-<li>☕ Formação no <b>Bootcamp Fullstack Java</b> na <a href="https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/">Generation Brasil</a>.</li>
-<li>📈 Formação no <b>Bootcamp Data Analytics em Python</b> na <a href="https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB">WoMakersCode</a>.</li>
-<li>💻 Aprofundando meus conhecimento de <b>Back-end</b> <a href="https://ada.tech/oportunidades/santander-tech-mais">Ada Tech</a>.</li>
-<li>🌍 Tenho <b>Inglês e Espanhol avançados</b>.</li>
-<li>📍 Estou baseada em <b>São Paulo - SP, Brasil</b>.</li>
+## ✨ Alguns fatos sobre mim
+
+<img align="right" width="380" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
+
+- 👩‍💻 Cursando **Engenharia de Software** na [Faculdade Descomplica](https://descomplica.com.br/faculdade/b/).
+- 💼 Prestes a me formar em Gestão de Políticas Públicas na [USP](https://www5.usp.br/).
+- ☕ Formação no **Bootcamp Fullstack Java** na [Generation Brasil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
+- 📈 Formação no **Bootcamp Data Analytics em Python** na [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
+- 💻 Aprofundando meus conhecimentos de **Back-end** na [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
+- 🌍 Tenho **Inglês e Espanhol avançados**.
+- 📍 Estou baseada em **São Paulo - SP, Brasil**.
+
 
 ***********
 
