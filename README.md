@@ -30,9 +30,8 @@
 </div>
 
 ***********
-
 ## ✨ Alguns fatos sobre mim
-
+<br>
 <img align="right" width="380" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
 
 - 👩‍💻 Cursando **Engenharia de Software** na [Faculdade Descomplica](https://descomplica.com.br/faculdade/b/).
@@ -42,7 +41,7 @@
 - 💻 Aprofundando meus conhecimentos de **Back-end** na [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Tenho **Inglês e Espanhol avançados**.
 - 📍 Estou baseada em **São Paulo - SP, Brasil**.
-
+<br>
 
 ***********
 
