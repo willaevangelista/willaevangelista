@@ -38,7 +38,7 @@
 - 💼 Prestes a me formar em Gestão de Políticas Públicas na [USP](https://www5.usp.br/).
 - ☕ Formação no **Bootcamp Fullstack Java** na [Generation Brasil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
 - 📈 Formação no **Bootcamp Data Analytics em Python** na [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
-- 💻 Aprofundando meus conhecimentos de **Back-end** na [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
+- 💻 Formação em **Back-end**, **Data Science** e **Front-End** na [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Tenho **Inglês e Espanhol avançados**.
 - 📍 Estou baseada em **São Paulo - SP, Brasil**.
 <br>
