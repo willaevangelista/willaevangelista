@@ -36,12 +36,24 @@
 
 - 👩‍💻 Studying **Software Engineering** at [Descomplica University](https://descomplica.com.br/faculdade/b/).
 - 💼 About to graduate in Public Policy and Management from [USP](https://www5.usp.br/).
-- ☕ Training in the **Fullstack Java Bootcamp** at [Generation Brasil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
+- ☕ Training in the **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
 - 📈 Training in the **Data Analytics in Python Bootcamp** at [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
 - 💻 Training in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Fluent in **English and Spanish**.
 - 📍 Based in **São Paulo - SP, Brazil**.
 <br>
+
+***********
+
+## ✨ Featured Projects: 
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/willaevangelista/smart-rh_java/blob/8ef962e852ca84ed22348cbd1dc96900bd217879/src/main/resources/img/SmartRH_logo.png"/>](https://github.com/willaevangelista/)
+
+**SmartRH** - Backend system built to manage company employees. \
+[**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
+Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
+GitHub Repository Link: [SmartRh](https://github.com/willaevangelista/smart-rh_java/).
+<br/>
 
 ***********
 
