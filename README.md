@@ -47,6 +47,14 @@
 
 ## ✨ Featured Projects: 
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Projeto-ClientFlow/ClientFlow/blob/e5c32f0c1f59e32ed8b6e6a6cf35ec036d4a60a6/src/img/Logo%20ClientFlow.png"/>](https://github.com/willaevangelista/)
+
+**ClientFlow** - A backend system designed to help companies efficiently manage their customer relationships. \
+[**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
+Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
+GitHub Repository Link: [ClientFlow](https://github.com/Projeto-ClientFlow/ClientFlow).
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/willaevangelista/smart-rh_java/blob/8ef962e852ca84ed22348cbd1dc96900bd217879/src/main/resources/img/SmartRH_logo.png"/>](https://github.com/willaevangelista/)
 
 **SmartRH** - Backend system built to manage company employees. \
