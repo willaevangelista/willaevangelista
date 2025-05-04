@@ -36,7 +36,7 @@
 
 - 👩‍💻 Studying **Software Engineering** at [Descomplica University](https://descomplica.com.br/faculdade/b/).
 - 💼 About to graduate in Public Policy and Management from [USP](https://www5.usp.br/).
-- ☕ Training in the **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
+- ☕ Graduated in the **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
 - 📈 Training in the **Data Analytics in Python Bootcamp** at [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
 - 💻 Training in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Fluent in **English and Spanish**.
@@ -49,26 +49,26 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Projeto-ClientFlow/Foodly/blob/f7d711a845149d0ce103825f9cf145bb2ef35bc4/src/main/resources/img/Logo_Foodly.png"/>](https://github.com/willaevangelista/)
 
-**Foodly** - A backend system designed to streamline product and category management for food delivery services. \
+**Foodly** - A full stack application designed to streamline product and category management for food delivery services. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
-Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
-GitHub Repository Link: [Foodly](https://github.com/Projeto-ClientFlow/Foodly).
+Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
+Links: [Backend Repository](https://github.com/Projeto-ClientFlow/Foodly) • [Frontend Repository](https://github.com/Projeto-ClientFlow/ClientFlow_react) • [Live Demo](https://foodly-react-five.vercel.app/).
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Projeto-ClientFlow/ClientFlow/blob/e5c32f0c1f59e32ed8b6e6a6cf35ec036d4a60a6/src/img/Logo%20ClientFlow.png"/>](https://github.com/willaevangelista/)
 
-**ClientFlow** - A backend system designed to help companies efficiently manage their customer relationships. \
+**ClientFlow** - A full stack CRM platform to help companies efficiently manage their customer relationships.\
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
-Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
-GitHub Repository Link: [ClientFlow](https://github.com/Projeto-ClientFlow/ClientFlow).
+Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
+Links: [Backend ClientFlow](https://github.com/Projeto-ClientFlow/ClientFlow) • [Frontend Repository](https://github.com/Projeto-ClientFlow/ClientFlow_react) • [Live Demo](https://client-flow-react-seven.vercel.app/).
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/willaevangelista/smart-rh_java/blob/8ef962e852ca84ed22348cbd1dc96900bd217879/src/main/resources/img/SmartRH_logo.png"/>](https://github.com/willaevangelista/)
 
-**SmartRH** - Backend system built to manage company employees. \
+**SmartRH** - A full stack HR system built to manage company employees. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
-Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
-GitHub Repository Link: [SmartRh](https://github.com/willaevangelista/smart-rh_java/).
+Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
+GitHub Repository Link: [SmartRh](https://github.com/willaevangelista/smart-rh_java/) • [Frontend Repository](https://github.com/Projeto-ClientFlow/SmartRH) • [Live Demo](https://smart-rh-hexdevascode.vercel.app/).
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/willaevangelista/cyber-games_java/blob/2129224cba0d3669443851d77cd08798e66367aa/src/img/CyberGames_logo.png"/>](https://github.com/willaevangelista/)
