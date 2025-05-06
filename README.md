@@ -52,7 +52,7 @@
 **Foodly** - A full stack application designed to streamline product and category management for food delivery services. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
-Links: [Backend Repository](https://github.com/Projeto-ClientFlow/Foodly) • [Frontend Repository](https://github.com/Projeto-ClientFlow/ClientFlow_react) • [Live Demo](https://foodly-react-five.vercel.app/).
+Links: [Backend Repository](https://github.com/Projeto-ClientFlow/Foodly) • [Frontend Repository](https://github.com/Projeto-ClientFlow/Foodly_React) • [Live Demo](https://foodly-react-five.vercel.app/).
 <br/>
 
 [<img align="left" height="100px" width="100px" alt="ClientFlow's Icon" src="https://github.com/Projeto-ClientFlow/ClientFlow/blob/e5c32f0c1f59e32ed8b6e6a6cf35ec036d4a60a6/src/img/Logo%20ClientFlow.png"/>](https://github.com/willaevangelista/)
