@@ -47,31 +47,34 @@
 
 ## ✨ Featured Projects: 
 
-[<img align="left" height="100px" width="100px" alt="Foodly's Icon" src="https://github.com/Projeto-ClientFlow/Foodly/blob/f7d711a845149d0ce103825f9cf145bb2ef35bc4/src/main/resources/img/Logo_Foodly.png"/>](https://github.com/willaevangelista/)
+[<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/willa/Logo%20Foodly.png?updatedAt=1746907025661"/>](https://github.com/willaevangelista/)
 
 **Foodly** - A full stack application designed to streamline product and category management for food delivery services. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
 Links: [Backend Repository](https://github.com/Projeto-ClientFlow/Foodly) • [Frontend Repository](https://github.com/Projeto-ClientFlow/Foodly_React) • [Live Demo](https://foodly-react-five.vercel.app/).
 <br/>
+<br/>
 
-[<img align="left" height="100px" width="100px" alt="ClientFlow's Icon" src="https://github.com/Projeto-ClientFlow/ClientFlow/blob/e5c32f0c1f59e32ed8b6e6a6cf35ec036d4a60a6/src/img/Logo%20ClientFlow.png"/>](https://github.com/willaevangelista/)
+[<img align="left" height="110px" width="110px" alt="ClientFlow's Icon" src="https://ik.imagekit.io/willa/Logo%20ClientFlow%20(1).png?updatedAt=1746907025661"/>](https://github.com/willaevangelista/)
 
 **ClientFlow** - A full stack CRM platform to help companies efficiently manage their customer relationships.\
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
 Links: [Backend Repository](https://github.com/Projeto-ClientFlow/ClientFlow) • [Frontend Repository](https://github.com/Projeto-ClientFlow/ClientFlow_react) • [Live Demo](https://client-flow-react-seven.vercel.app/).
 <br/>
+<br/>
 
-[<img align="left" height="100px" width="100px" alt="SmartRH's Icon" src="https://github.com/willaevangelista/smart-rh_java/blob/8ef962e852ca84ed22348cbd1dc96900bd217879/src/main/resources/img/SmartRH_logo.png"/>](https://github.com/willaevangelista/)
+[<img align="left" height="110px" width="110px" alt="SmartRH's Icon" src="https://ik.imagekit.io/willa/Logo%20SmartRH%20(1).png?updatedAt=1746907025661"/>](https://github.com/willaevangelista/)
 
 **SmartRH** - A full stack HR system built to manage company employees. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
 GitHub Repository Link: [Backend Repository](https://github.com/willaevangelista/smart-rh_java/) • [Frontend Repository](https://github.com/Projeto-ClientFlow/SmartRH) • [Live Demo](https://smart-rh-hexdevascode.vercel.app/).
 <br/>
+<br/>
 
-[<img align="left" height="100px" width="100px" alt="CyberGames' Icon" src="https://github.com/willaevangelista/cyber-games_java/blob/2129224cba0d3669443851d77cd08798e66367aa/src/img/CyberGames_logo.png"/>](https://github.com/willaevangelista/)
+[<img align="left" height="110px" width="110px" alt="CyberGames' Icon" src="https://ik.imagekit.io/willa/Logo%20CyberGames.png?updatedAt=1746907025661"/>](https://github.com/willaevangelista/)
 
 **CyberGames** - Backend system developed to manage game products and categories. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
