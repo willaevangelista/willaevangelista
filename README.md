@@ -49,7 +49,7 @@
 
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/willa/Logo%20Foodly.png?updatedAt=1746907025661"/>](https://github.com/willaevangelista/)
 
-**Foodly** - A full stack application designed to streamline product and category management for food delivery services. \
+**Foodly** - A full stack application to streamline product and category management for food delivery services. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
 Links: [Backend Repository](https://github.com/Projeto-ClientFlow/Foodly) • [Frontend Repository](https://github.com/Projeto-ClientFlow/Foodly_React) • [Live Demo](https://foodly-react-five.vercel.app/).
