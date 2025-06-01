@@ -45,7 +45,7 @@
 
 ***********
 
-## ✨ Working Experience: 
+## ✨ Work Experience: 
 
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/GE%20360.jpeg?updatedAt=1748815367746"/>](https://github.com/willaevangelista/)
 
