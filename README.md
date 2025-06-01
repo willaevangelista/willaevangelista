@@ -15,10 +15,10 @@
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-FF4081?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF4081?style=for-the-badge&logo=nextdotjs&logoColor=white) \
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,6 +42,19 @@
 - 🌍 Fluent in **English and Spanish**.
 - 📍 Based in **São Paulo - SP, Brazil**.
 <br>
+
+***********
+
+## ✨ Working Experience: 
+
+[<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/GE%20360.jpeg?updatedAt=1748815367746"/>](https://github.com/willaevangelista/)
+
+**Front-end Developer (Volunteer)** \
+**GE 360** • Part-time • April 2025 – Present \
+Languages & Tecnologies: `React`, `Tailwind`, `Typescript`, `Next.js`, `HTML`, `CSS` and `Javascript`\
+Contributing to the development of software solutions aimed at supporting and optimizing the operations of nonprofit organizations, promoting social impact through technology.
+<br/>
+<br/>
 
 ***********
 
@@ -70,7 +83,7 @@ Links: [Backend Repository](https://github.com/Projeto-ClientFlow/ClientFlow) �
 **SmartRH** - A full stack HR system built to manage company employees. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `Tailwind`, `Typescript`, `HTML`, `CSS` and `Javascript`\
-GitHub Repository Link: [Backend Repository](https://github.com/willaevangelista/smart-rh_java/) • [Frontend Repository](https://github.com/Projeto-ClientFlow/SmartRH) • [Live Demo](https://smart-rh-hexdevascode.vercel.app/).
+Links: [Backend Repository](https://github.com/willaevangelista/smart-rh_java/) • [Frontend Repository](https://github.com/Projeto-ClientFlow/SmartRH) • [Live Demo](https://smart-rh-hexdevascode.vercel.app/).
 <br/>
 <br/>
 
@@ -79,7 +92,7 @@ GitHub Repository Link: [Backend Repository](https://github.com/willaevangelista
 **CyberGames** - Backend system developed to manage game products and categories. \
 [**Generation Brazil**](https://brazil.generation.org/) • Full-time Java Full Stack Bootcamp \
 Languages & Tecnologies: `Java`, `Sring Boot`, `SQL`, `React`, `HTML`, `CSS` and `Javascript`\
-GitHub Repository Link: [CyberGames](https://github.com/willaevangelista/cyber-games_java).
+Links: [CyberGames](https://github.com/willaevangelista/cyber-games_java).
 <br/>
 
 ***********
