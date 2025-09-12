@@ -11,7 +11,7 @@
 <div align=center>
 <b>
 
- #### `Junior Full Stack Developer | Junior Software Engineer | Junior Data Engineer`
+ #### `Junior Software Engineer`
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,6 +46,14 @@
 ***********
 
 ## ✨ Work Experience: 
+
+[<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/F1rst%20-%20Logo.webp?updatedAt=1757718853954"/>](https://github.com/willaevangelista/)
+
+**Junior Software Engineer** \
+**[F1rst Digital Services](https://www.linkedin.com/company/f1rstdigitalservices/)** • Full-time • September 2025 – Present \
+Languages & Tecnologies: `Java`, `Spring Boot`, `Camel`, `PostgreSQL`, `CI/CD`, `Kubernetes` and `AWS`\
+Contributing to the design, development, and deployment of scalable and secure software solutions, integrating cloud services, databases, and APIs to support business needs and ensure continuous delivery.
+<br/>
 
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/GE%20360.jpeg?updatedAt=1748815367746"/>](https://github.com/willaevangelista/)
 
