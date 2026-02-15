@@ -35,10 +35,10 @@
 <img align="right" width="380" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"/>
 
 - 👩‍💻 Studying **Software Engineering** at [Descomplica University](https://descomplica.com.br/faculdade/b/).
-- 💼 About to graduate in Public Policy and Management from [USP](https://www5.usp.br/).
+- 💼 Graduate in Public Policy and Management from [USP](https://www5.usp.br/).
 - ☕ Graduated in the **Fullstack Java Bootcamp** at [Generation Brazil](https://brazil.generation.org/programas/new-pessoa-desenvolvedora-fullstack-java/).
-- 📈 Training in the **Data Analytics in Python Bootcamp** at [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
-- 💻 Training in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
+- 📈 Graduated in the **Data Analytics in Python Bootcamp** at [WoMakersCode](https://womakerscode.org/data-analytics/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHakroq0qHa-qrc-GNOQJfN2idiT-neTvY25jyUb7rMh5L1Dv0zcZPa0aAsUXEALw_wcB).
+- 💻 Graduated in **Back-end**, **Data Science** and **Front-End** at [Ada Tech](https://ada.tech/oportunidades/santander-tech-mais).
 - 🌍 Fluent in **English and Spanish**.
 - 📍 Based in **São Paulo - SP, Brazil**.
 <br>
@@ -58,7 +58,7 @@ Contributing to the design, development, and deployment of scalable and secure s
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/GE%20360.jpeg?updatedAt=1748815367746"/>](https://github.com/willaevangelista/)
 
 **Front-end Developer (Volunteer)** \
-**GE 360** • Part-time • April 2025 – Present \
+**GE 360** • Part-time • April 2025 – September 2025 \
 Languages & Tecnologies: `React`, `Tailwind`, `Typescript`, `Next.js`, `HTML`, `CSS` and `Javascript`\
 Contributing to the development of software solutions aimed at supporting and optimizing the operations of nonprofit organizations, promoting social impact through technology.
 <br/>
