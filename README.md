@@ -22,9 +22,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-9c27b0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </b>
 </div>
@@ -50,9 +48,9 @@
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/F1rst%20-%20Logo.webp?updatedAt=1757718853954"/>](https://github.com/willaevangelista/)
 
 **Software Engineer** \
-**[F1rst Digital Services](https://www.linkedin.com/company/f1rstdigitalservices/)** • Full-time • September 2025 – Present \
-Languages & Tecnologies: `Java`, `Spring Boot`, `Camel`, `PostgreSQL`, `CI/CD`, `Kubernetes` and `AWS`\
-Contributing to the design, development, and deployment of scalable and secure software solutions, integrating cloud services, databases, and APIs to support business needs and ensure continuous delivery.
+**[F1RST Digital Services](https://www.linkedin.com/company/f1rstdigitalservices/)** • Full-time • September 2025 – Present \
+Languages & Technologies: `Java`, `Spring Boot`, `AWS`, `PL/SQL`, `REST APIs`, `Microservices`, `CI/CD`, `AI` \
+Designing, developing, and evolving backend solutions for high-criticality financial platforms, with a focus on microservices, REST APIs, cloud infrastructure, and software architecture. Working across the software development lifecycle, from solution design and implementation to testing, deployment, observability, and continuous improvement, while integrating AI into daily engineering workflows.
 <br/>
 
 [<img align="left" height="110px" width="110px" alt="Foodly's Icon" src="https://ik.imagekit.io/newimagehere/GE%20360.jpeg?updatedAt=1748815367746"/>](https://github.com/willaevangelista/)
